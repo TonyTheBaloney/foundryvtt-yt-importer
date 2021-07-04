@@ -2,7 +2,7 @@
   "name": "youtube_importer",
   "title": "Youtube Importer",
   "description": "A module that allows you to import youtube videos into your Foundry VTT",
-  "version": "This is auto replaced",
+  "version": "0.0.1",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.8.0",
@@ -36,9 +36,9 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
+  "url": "https://github.com/TonyTheBaloney/vtt-yt-importer",
+  "manifest": "https://raw.githubusercontent.com/TonyTheBaloney/vtt-yt-importer/main/module.json",
+  "download": "https://github.com/TonyTheBaloney/vtt-yt-importer/archive/refs/tags/0.0.1.zip",
   "media": [
     {
       "type": "icon",
